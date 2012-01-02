@@ -1,0 +1,220 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/f:Product.cs" caret="328" fromTop="14" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/f:ProductColor.cs" caret="149" fromTop="7" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/f:ProductSize.cs" caret="135" fromTop="6" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/d:Specifications/f:BelowPriceSpecification.cs" caret="62" fromTop="0" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/d:Specifications/f:SizeSpecification.cs" caret="62" fromTop="0" />
+      <File id="62AA31B4-7B01-4E7D-97B6-1DA99EE60573/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/d:Specifications/f:Specification.cs" caret="93" fromTop="2" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/d:Specifications/f:ColorSpecification.cs" caret="10" fromTop="0" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/d:Specifications/f:CompositeSpecification.cs" caret="689" fromTop="25" />
+      <File id="5FF39EF9-A5F6-472E-9BAD-B7F401D0760A/f:ProductRepositoryTest.cs" caret="2341" fromTop="19" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/f:ProductRepository.cs" caret="381" fromTop="14" />
+      <File id="7759AF0A-A4C1-4A0B-ABE5-8B2F12A6D367/f:Program.cs" caret="153" fromTop="8" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:DomainObjects/f:ProductColor.cs" caret="62" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:DomainObjects/f:Product.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:DomainObjects/f:ProductSize.cs" caret="184" fromTop="9" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AbovePriceSpecification.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:BelowPriceSpecification.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:OrSpecification.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:PriceSpecification.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:SizeSpecification.cs" caret="0" fromTop="0" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:Specification.cs" caret="0" fromTop="0" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithoutSpecificationTest.cs" caret="5778" fromTop="23" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/f:ProductRepositoryWithoutSpecification.cs" caret="2151" fromTop="33" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:ColorSpecification.cs" caret="242" fromTop="5" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="5363" fromTop="30" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AndSpecification.cs" caret="542" fromTop="14" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:NotSpecification.cs" caret="363" fromTop="10" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/f:ProductRepositoryWithSpecification.cs" caret="643" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/f:ProductRepositoryWithSpecification.cs" caret="584" fromTop="17" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:PriceSpecification.cs" caret="450" fromTop="15" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:PriceSpecification.cs" caret="325" fromTop="11" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:PriceSpecification.cs" caret="223" fromTop="6" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="3359" fromTop="14" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="3680" fromTop="24" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="3907" fromTop="28" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="4142" fromTop="34" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AbovePriceSpecification.cs" caret="183" fromTop="6" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AbovePriceSpecification.cs" caret="327" fromTop="13" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AbovePriceSpecification.cs" caret="456" fromTop="15" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="4274" fromTop="16" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AndSpecification.cs" caret="395" fromTop="12" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AndSpecification.cs" caret="294" fromTop="10" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:AndSpecification.cs" caret="727" fromTop="18" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="5079" fromTop="23" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="5990" fromTop="34" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="5779" fromTop="34" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="6307" fromTop="30" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="6348" fromTop="31" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:OrSpecification.cs" caret="396" fromTop="8" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:OrSpecification.cs" caret="295" fromTop="6" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:OrSpecification.cs" caret="172" fromTop="6" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:OrSpecification.cs" caret="725" fromTop="17" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="6116" fromTop="11" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="7442" fromTop="17" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:NotSpecification.cs" caret="148" fromTop="6" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:NotSpecification.cs" caret="365" fromTop="13" />
+      <File id="99A707CB-88EC-4F0E-B47B-22634761C65C/d:Specifications/f:NotSpecification.cs" caret="510" fromTop="15" />
+      <File id="A67B39BA-1C32-488A-85B3-30023CB4C1A3/f:ProductRepositoryWithSpecificationsTest.cs" caret="6979" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="20" />
+      <Item value="Product" priority="1" />
+      <Item value="repository" priority="1" />
+      <Item value="ProductRepository" priority="0" />
+      <Item value="fireTruck" priority="0" />
+      <Item value="productRepository" priority="2" />
+      <Item value="Assert`0" priority="7" />
+      <Item value="TestInitialize" priority="1" />
+      <Item value="public" priority="4" />
+      <Item value="void" priority="3" />
+      <Item value="_productRepository" priority="2" />
+      <Item value="_fireTruck" priority="1" />
+      <Item value="_barbieClassic" priority="0" />
+      <Item value="_frisbee" priority="0" />
+      <Item value="_baseball" priority="0" />
+      <Item value="_toyConvertible" priority="0" />
+      <Item value="TestMethod" priority="2" />
+      <Item value="Product`0" priority="6" />
+      <Item value="ProductColor`0" priority="4" />
+      <Item value="colorSpec" priority="0" />
+      <Item value="foundProducts" priority="4" />
+      <Item value="private" priority="0" />
+      <Item value="IList" priority="3" />
+      <Item value="List&lt;Product&gt;" priority="2" />
+      <Item value="_products" priority="8" />
+      <Item value="product" priority="26" />
+      <Item value="foreach" priority="3" />
+      <Item value="if" priority="1" />
+      <Item value="spec" priority="1" />
+      <Item value="foundProduct" priority="1" />
+      <Item value="Spec`0" priority="2" />
+      <Item value="return" priority="18" />
+      <Item value="_productColor" priority="0" />
+      <Item value="List&lt;Spec&gt;" priority="0" />
+      <Item value="specs" priority="6" />
+      <Item value="ColorSpec`0" priority="0" />
+      <Item value="ProductSize`0" priority="2" />
+      <Item value="_price" priority="1" />
+      <Item value="_productSize" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="satisfiesAllSpecs" priority="1" />
+      <Item value="CompositeSpec" priority="1" />
+      <Item value="readonly" priority="0" />
+      <Item value="compositeSpec" priority="4" />
+      <Item value="ReadOnlyCollection&lt;Spec&gt;" priority="0" />
+      <Item value="_specs" priority="0" />
+      <Item value="SelectBy`0" priority="0" />
+      <Item value="CompositeSpec`0" priority="0" />
+      <Item value="_productRepositoryWithoutSpecification" priority="0" />
+      <Item value="filteredProducts" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="1" />
+      <Item value="productColor" priority="1" />
+      <Item value="price" priority="2" />
+      <Item value="productSize" priority="0" />
+      <Item value="size" priority="1" />
+      <Item value="specification" priority="0" />
+      <Item value="BelowPriceSpecification`0" priority="1" />
+      <Item value="Specification`0" priority="1" />
+      <Item value="ColorSpecification`0" priority="0" />
+      <Item value="colorAndBelowPriceSpecification" priority="0" />
+      <Item value="_leftSpecification" priority="1" />
+      <Item value="_rightSpecification" priority="1" />
+      <Item value="SizeSpecification`0" priority="0" />
+      <Item value="sizeSpecification" priority="2" />
+      <Item value="SizeSpecification" priority="0" />
+      <Item value="colorAndSizeSpecification" priority="0" />
+      <Item value="NotSpecification" priority="0" />
+      <Item value="_specification" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsNotNull`0" priority="1" />
+      <Item value="AreSame`0" priority="0" />
+      <Item value="AreEqual`0" priority="4" />
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReplaceOneManyDistictionWithComposite.ProductColor">
+      <Item value="YELLOW" priority="0" />
+      <Item value="GREEN" priority="1" />
+      <Item value="RED" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReplaceOneManyDistictionWithComposite.ProductSize">
+      <Item value="SMALL" priority="2" />
+      <Item value="LARGE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.ProductRepository">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="2" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Add`0" priority="5" />
+      <Item value="First`1" priority="0" />
+      <Item value="Where`1" priority="5" />
+      <Item value="Last`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.Product">
+      <Item value="Color" priority="3" />
+      <Item value="Price" priority="4" />
+      <Item value="Size" priority="3" />
+      <Item value="Description" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.ProductColor">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.ProductSize">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.Spec">
+      <Item value="IsSatisfiedBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceOneManyDistictionWithComposite.CompositeSpec">
+      <Item value="Specs" priority="0" />
+      <Item value="IsSatisfiedBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceImplicitLanguageWithInterpreter.Specifications.Specification">
+      <Item value="IsSatisfiedBy`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReplaceImplicitLanguageWithInterpreter.DomainObjects.Product">
+      <Item value="Price" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReplaceImplicitLanguageWithInterpreter.DomainObjects.ProductColor">
+      <Item value="GREEN" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ReplaceImplicitLanguageWithInterpreter.DomainObjects.ProductSize">
+      <Item value="SMALL" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
